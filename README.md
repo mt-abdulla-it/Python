@@ -36,6 +36,7 @@ Here are the projects available in this repository:
 7. **Password Tool** - A password helper/generator tool.
 8. **[Modern Expense Tracker App](file:///c:/Users/abdullah/Desktop/Python/Modern%20Expense%20Tracker%20App/Expense%20Tracker.py)** - A beautifully styled personal finance and budget manager using Tkinter and SQLite3.
 9. **[FocusFlow: Pomodoro Timer & Focus Tracker](file:///c:/Users/abdullah/Desktop/Python/FocusFlow%20Pomodoro%20%26%20Focus%20Tracker/FocusFlow.py)** - A premium desktop productivity timer and focus logging system using Tkinter and SQLite3.
+10. **[Smart Note & Mind Vault App](file:///home/abdullah/Desktop/New%20Folder%201/Python/Smart%20Note%20%26%20Mind%20Vault%20App/MindVault.py)** - An intelligent knowledge management, note-taking, and markdown vault application with search, categories, and SQLite3 database.
 
 ## How to Use
 
